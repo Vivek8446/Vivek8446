@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **SIH, 3D printer**
 
-- 🌱 I’m currently learning **NodeJs, MongoDB, ReactJs**
+- 🌱 I’m currently learning **DSA, NodeJs, MongoDB, ReactJs**
 
 - 📫 How to reach me **Vivekkalp@gmail.com**
 
