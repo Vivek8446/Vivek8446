@@ -61,7 +61,7 @@ Here are some ideas to get you started :
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>&nbsp;
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>&nbsp;
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>&nbsp;
-       <a href="#"><img alt="React" src="https://img.shields.io/badge/Flask-%23008184?style=for-the-badge&logo=Flask"></a>&nbsp;             
+       <a href="#"><img alt="React" src="https://img.shields.io/badge/Flask-%23008184?style=plastic&logo=Flask"></a>&nbsp;             
 </p>
 
 ### 🗄️ Databases and cloud hosting
