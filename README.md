@@ -61,6 +61,7 @@ Here are some ideas to get you started :
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>&nbsp;
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>&nbsp;
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>&nbsp;
+       <a href="#"><img alt="React" src="https://img.shields.io/badge/Flask-%23008184?style=for-the-badge&logo=Flask"></a>&nbsp;             
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -82,7 +83,7 @@ Here are some ideas to get you started :
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>&nbsp;
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino_badge-%23008184?style=for-the-badge&logo=Arduino&labelColor=%23008184"></a>
+    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-%23008184?style=for-the-badge&logo=Arduino&labelColor=%23008184"></a>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek8446&show_icons=true&locale=en" alt="vivek8446" /></p>
 
